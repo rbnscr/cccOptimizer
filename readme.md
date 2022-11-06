@@ -1,0 +1,4 @@
+# Flags
+- clear
+- template
+- plot
