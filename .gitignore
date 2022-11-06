@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 testfile.json
+save/
+.venvoptim
